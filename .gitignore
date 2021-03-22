@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+.vscode/
+npm-debug.*
+**/.vs
+**/obj
+**/bin
+_bin
+_deploy
+packages

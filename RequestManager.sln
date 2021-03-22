@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{F2643858-9B7B-4A39-BA9F-358EEC70DE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Tests", "BusinessLogic.Tests\BusinessLogic.Tests.csproj", "{E0EB3344-6744-4E18-8B3B-2CEACE637E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2643858-9B7B-4A39-BA9F-358EEC70DE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2643858-9B7B-4A39-BA9F-358EEC70DE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2643858-9B7B-4A39-BA9F-358EEC70DE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2643858-9B7B-4A39-BA9F-358EEC70DE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EB3344-6744-4E18-8B3B-2CEACE637E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EB3344-6744-4E18-8B3B-2CEACE637E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EB3344-6744-4E18-8B3B-2CEACE637E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EB3344-6744-4E18-8B3B-2CEACE637E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F846FC-6A44-40CF-B0BD-921961F1B425}
+	EndGlobalSection
+EndGlobal
